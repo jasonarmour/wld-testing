@@ -1,0 +1,1 @@
+<div id="<?php wld_the( 'anchor_name' ); ?>" class="anchor"></div>

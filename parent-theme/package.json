@@ -1,0 +1,30 @@
+{
+    "name": "parent-theme",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "eslint": "^5.15.1",
+        "eslint-config-wordpress": "^2.0.0"
+    },
+    "eslintConfig": {
+        "extends": "wordpress",
+        "rules": {
+            "no-mixed-spaces-and-tabs": [
+                "error",
+                "smart-tabs"
+            ],
+            "space-in-parens": [
+                "error",
+                "always"
+            ],
+            "space-unary-ops": [
+				"error",
+				{
+					"nonwords": true
+				}
+			]
+		}
+	}
+}

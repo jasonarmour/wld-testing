@@ -1,0 +1,63 @@
+.acf-wld-contact-link .wld-contact-link-wrap {
+	min-height: 84px;
+	border: #DFDFDF solid 1px;
+	background: #fff;
+}
+
+.acf-wld-contact-link .wld-contact-link-value {
+	padding: 10px;
+}
+
+.acf-wld-contact-link .wld-contact-link-value label {
+	line-height: 26px;
+	display: block;
+	float: left;
+	width: 60px;
+}
+
+.acf-wld-contact-link .wld-contact-link-value > div {
+	clear: both;
+	width: 100%;
+}
+
+.acf-wld-contact-link .wld-contact-link-value > div:not(:last-of-type) {
+	margin-bottom: 5px;
+}
+
+.acf-wld-contact-link .wld-contact-link-value .wld-contact-link-input {
+	display: block;
+	float: left;
+	width: calc(100% - 60px);
+}
+
+.acf-wld-contact-link .wld-contact-link-value .acf-input-prepend {
+	margin-right: -2px;
+}
+
+.acf-wld-contact-link .wld-contact-link-value .acf-input-append {
+	margin-left: -2px;
+}
+
+.acf-field .acf-wld-contact-link input[type="text"],
+.acf-field .acf-wld-contact-link input[type="email"],
+.acf-field .acf-wld-contact-link input[type="tel"] {
+	font-size: 14px;
+	line-height: 1.4;
+	box-sizing: border-box;
+	width: 100%;
+	margin: 0;
+	padding: 3px 5px;
+	resize: none;
+}
+
+@media screen and ( max-width: 782px ) {
+	.acf-field.acf-field-wld-contact-link {
+		width: 100% !important;
+		border-top-width: 1px !important;
+	}
+
+	.acf-input-prepend,
+	.acf-input-append {
+		line-height: 2.2;
+	}
+}

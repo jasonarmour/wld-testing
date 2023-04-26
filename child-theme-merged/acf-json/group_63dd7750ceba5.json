@@ -1,0 +1,46 @@
+{
+    "key": "group_63dd7750ceba5",
+    "title": "Custom Page Style",
+    "fields": [
+        {
+            "key": "field_63dd77515568c",
+            "label": "Custom Page CSS",
+            "name": "custom_page_css",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "Enter custom CSS here for this page only.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "relevanssi_exclude": 1,
+            "default_value": "",
+            "new_lines": "",
+            "maxlength": "",
+            "placeholder": "",
+            "rows": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 100,
+    "position": "normal",
+    "style": "seamless",
+    "label_placement": "top",
+    "instruction_placement": "field",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1676487466
+}

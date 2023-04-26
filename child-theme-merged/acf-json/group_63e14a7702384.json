@@ -1,0 +1,46 @@
+{
+    "key": "group_63e14a7702384",
+    "title": "FC: Anchor",
+    "fields": [
+        {
+            "key": "field_63e14a78db592",
+            "label": "Anchor Name",
+            "name": "anchor_name",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Create a hyperlink to a location on this page by giving the anchor a name, and linking to it. For example, Anchor Name = details.  Then you can link to: \/page-name\/#details.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "relevanssi_exclude": 0,
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": false,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1676487363
+}

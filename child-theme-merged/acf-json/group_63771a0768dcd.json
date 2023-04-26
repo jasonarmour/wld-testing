@@ -1,0 +1,50 @@
+{
+    "key": "group_63771a0768dcd",
+    "title": "CPT: MO Sync User",
+    "fields": [
+        {
+            "key": "field_63771a0dfdc51",
+            "label": "CRM Account ID",
+            "name": "crm_account_id",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "This field should be set by MiniOrange Sync only.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "user_form",
+                "operator": "==",
+                "value": "edit"
+            },
+            {
+                "param": "current_user_role",
+                "operator": "==",
+                "value": "administrator"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1669217157
+}

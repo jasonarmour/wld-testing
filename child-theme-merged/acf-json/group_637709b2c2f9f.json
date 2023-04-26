@@ -1,0 +1,66 @@
+{
+    "key": "group_637709b2c2f9f",
+    "title": "CPT: MO Sync Product",
+    "fields": [
+        {
+            "key": "field_637709b62c9d7",
+            "label": "CRM Product ID",
+            "name": "crm_product_id",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "This field should be set by MiniOrange Sync only.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_63eb35476f48b",
+            "label": "Redirect URL (Product URL)",
+            "name": "redirect_url",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "relevanssi_exclude": 1,
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1676359617
+}

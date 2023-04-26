@@ -1,0 +1,13 @@
+.acf-wld-title {
+	display: flex;
+}
+
+.acf-wld-title div:first-child {
+	width: 100%;
+}
+
+.acf-wld-title div:nth-child(2) {
+	width: 65px;
+	padding-left: 12px;
+	margin-top: -1px;
+}

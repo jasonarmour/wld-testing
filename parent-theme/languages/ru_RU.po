@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parent Theme\n"
+"POT-Creation-Date: 2019-06-12 07:29+0000\n"
+"PO-Revision-Date: 2019-06-12 07:42+0000\n"
+"Last-Translator: wlda <alex@eastsummit.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: archive.php:19 search.php:20
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: search.php:7
+msgid "Search Results for: "
+msgstr "Результаты поиска для: "
+
+#: search.php:34
+msgid "New Search"
+msgstr "Новый поиск"
+
+#: inc/class-wld-acf-contact-link-field.php:9
+msgid "Contact Link"
+msgstr "Контактная ссылка"
+
+#: inc/class-wld-acf-contact-link-field.php:24
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/class-wld-acf-contact-link-field.php:25
+msgid "Fax"
+msgstr "Факс"
+
+#: inc/class-wld-acf-contact-link-field.php:26
+msgid "Email"
+msgstr "Email"
+
+#: inc/class-wld-acf-contact-link-field.php:34
+msgid "Class Attribute"
+msgstr "Class атрибут"
+
+#: inc/class-wld-acf-contact-link-field.php:42
+msgid "User Select Link Type"
+msgstr "Пользовательский тип ссылки"
+
+#: inc/class-wld-acf-contact-link-field.php:51
+msgid "Link Type"
+msgstr "Тип ссылки"
+
+#: inc/class-wld-acf-contact-link-field.php:60
+#: inc/class-wld-acf-forms-field.php:40 inc/class-wld-acf-menu-field.php:18
+msgid "Return Value"
+msgstr "Возвращаемое значение"
+
+#: inc/class-wld-acf-contact-link-field.php:61
+msgid "Specify the returned value on front end"
+msgstr "Укажите возвращаемое значение на внешней стороне сайта"
+
+#: inc/class-wld-acf-contact-link-field.php:66
+msgid "Link Array"
+msgstr "Данные ссылки в Array"
+
+#: inc/class-wld-acf-contact-link-field.php:67
+msgid "Link HTML"
+msgstr "HTML ссылки"
+
+#: inc/class-wld-acf-contact-link-field.php:74
+msgid "User Custom Class"
+msgstr "Пользовательский класс"
+
+#: inc/class-wld-acf-contact-link-field.php:127
+msgid "Title :"
+msgstr "Заголовок :"
+
+#: inc/class-wld-acf-contact-link-field.php:146
+msgid "Number :"
+msgstr "Номер :"
+
+#: inc/class-wld-acf-contact-link-field.php:184
+msgid "Class :"
+msgstr "Класс :"
+
+#: inc/class-wld-acf-contact-link-field.php:289
+msgid "Number can not be empty!"
+msgstr "Номер не может быть пустым!"
+
+#: inc/class-wld-acf-forms-field.php:9
+msgid "Forms"
+msgstr "Формы"
+
+#: inc/class-wld-acf-forms-field.php:45
+msgid "Form Object"
+msgstr "Объект Формы"
+
+#: inc/class-wld-acf-forms-field.php:46
+msgid "Form ID"
+msgstr "ID Формы"
+
+#: inc/class-wld-acf-forms-field.php:53
+msgid "Select multiple values?"
+msgstr "Разрешить множественный выбор?"
+
+#: inc/class-wld-acf-forms-field.php:57
+msgid "Yes"
+msgstr "Да"
+
+#: inc/class-wld-acf-forms-field.php:58
+msgid "No"
+msgstr "Нет"
+
+#: inc/class-wld-acf-forms-field.php:97
+msgid "- Select a form -"
+msgstr "- Выберите форму -"
+
+#: inc/class-wld-acf-map-zoom-field.php:11
+msgid "Google Map Zoom"
+msgstr "Google Карта с увеличением"
+
+#: inc/class-wld-acf-menu-field.php:7
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/class-wld-acf-menu-field.php:23
+msgid "Menu Object"
+msgstr "Объект меню"
+
+#: inc/class-wld-acf-menu-field.php:24
+msgid "Menu ID"
+msgstr "ID меню"
+
+#: inc/class-wld-acf-menu-field.php:36
+msgid "- Select a menu -"
+msgstr "- Выберите меню -"
+
+#: inc/class-wld-acf-title-field.php:7
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/class-wld-acf-title-field.php:38
+msgid "Default Value"
+msgstr "Значение по умолчанию"
+
+#: inc/class-wld-acf-title-field.php:39
+msgid "Appears when creating a new post"
+msgstr "Появляется при создании нового поста"
+
+#: inc/class-wld-acf-title-field.php:48
+msgid "Placeholder Text"
+msgstr "Текст заполнителя"
+
+#: inc/class-wld-acf-title-field.php:49
+msgid "Appears within the input"
+msgstr "Появляется внутри ввода"
+
+#: inc/class-wld-acf-title-field.php:57
+msgid "Character Limit"
+msgstr "Ограничение на количество символов"
+
+#: inc/class-wld-acf-title-field.php:58
+msgid "Leave blank for no limit"
+msgstr "Оставьте пустым, чтобы не ограничивать"
+
+#: inc/class-wld-acf-title-field.php:66
+msgid "Rows"
+msgstr "Рядов"
+
+#: inc/class-wld-acf-title-field.php:67
+msgid "Sets the textarea height"
+msgstr "Установите высоту textarea"
+
+#: inc/class-wld-cpt.php:117
+msgid "Add New"
+msgstr "Новая"
+
+#: inc/class-wld-cpt.php:119 inc/class-wld-tax.php:108
+#, php-format
+msgid "Add New %s"
+msgstr "Добавить новую %s"
+
+#: inc/class-wld-cpt.php:121 inc/class-wld-tax.php:102
+#, php-format
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: inc/class-wld-cpt.php:123
+#, php-format
+msgid "New %s"
+msgstr "Новая %s"
+
+#: inc/class-wld-cpt.php:125 inc/class-wld-cpt.php:127
+#: inc/class-wld-tax.php:104
+#, php-format
+msgid "View %s"
+msgstr "Посмотреть %s"
+
+#: inc/class-wld-cpt.php:129 inc/class-wld-tax.php:92
+#, php-format
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#: inc/class-wld-cpt.php:131 inc/class-wld-tax.php:118
+#, php-format
+msgid "No %s found."
+msgstr "Не найдено %s."
+
+#: inc/class-wld-cpt.php:133
+#, php-format
+msgid "No %s found in Trash."
+msgstr "%s не найдено в корзине."
+
+#: inc/class-wld-cpt.php:135 inc/class-wld-tax.php:100
+#, php-format
+msgid "Parent %s:"
+msgstr "Родитель %s:"
+
+#: inc/class-wld-cpt.php:137 inc/class-wld-tax.php:96
+#, php-format
+msgid "All %s"
+msgstr "Все %s"
+
+#: inc/class-wld-cpt.php:139
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Загружено для этого %s"
+
+#: inc/class-wld-cpt.php:141
+#, php-format
+msgid "Filter %s list"
+msgstr "Фильтр %s списка"
+
+#: inc/class-wld-cpt.php:143 inc/class-wld-tax.php:122
+#, php-format
+msgid "%s list navigation"
+msgstr "%s список навигации"
+
+#: inc/class-wld-cpt.php:145 inc/class-wld-tax.php:124
+#, php-format
+msgid "%s list"
+msgstr "%s список"
+
+#: inc/class-wld-cpt.php:184
+msgid "Theme Custom Post Types"
+msgstr "Типы записи темы"
+
+#: inc/class-wld-cpt.php:223
+msgid "Available tags: "
+msgstr "Доступные теги:"
+
+#: inc/class-wld-extend-wplink.php:51
+msgid "Select Link"
+msgstr "Выберите ссылку"
+
+#: inc/class-wld-extend-wplink.php:57
+msgid "Opens in a new window/tab"
+msgstr "Открывается в новом окне/вкладке"
+
+#: inc/class-wld-extend-wplink.php:59
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/class-wld-extend-wplink.php:61
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/class-wld-not-a-page.php:9 inc/class-wld-not-a-page.php:100
+#: inc/class-wld-not-a-page.php:137
+msgid "Not a Page"
+msgstr "Не страница"
+
+#: inc/class-wld-not-a-page.php:13
+msgid "Redirect Type"
+msgstr "Тип перенаправления"
+
+#: inc/class-wld-not-a-page.php:25
+msgid "First Child"
+msgstr "Первая подстраница"
+
+#: inc/class-wld-not-a-page.php:26
+msgid "URL"
+msgstr "URL"
+
+#: inc/class-wld-not-a-page.php:35
+msgid "Redirect URL"
+msgstr "URL перенапрвления"
+
+#: inc/class-wld-tax.php:94
+#, php-format
+msgid "Popular %s"
+msgstr "Популярные %s"
+
+#: inc/class-wld-tax.php:98
+#, php-format
+msgid "Parent %s"
+msgstr "Родитель %s"
+
+#: inc/class-wld-tax.php:106
+#, php-format
+msgid "Update %s"
+msgstr "Обновить %s"
+
+#: inc/class-wld-tax.php:110
+#, php-format
+msgid "New %s Name"
+msgstr "Новый %s имя"
+
+#: inc/class-wld-tax.php:112
+#, php-format
+msgid "Add or remove %s"
+msgstr "Добавить или удалить %s"
+
+#: inc/class-wld-tax.php:114
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Разделяйте %s запятыми"
+
+#: inc/class-wld-tax.php:116
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Выберите из наиболее часто используемых %s"
+
+#: inc/class-wld-tax.php:120
+#, php-format
+msgid "No %s"
+msgstr "Нет %s"
+
+#: inc/class-wld-tax.php:231
+msgid "Theme Custom Taxonomies"
+msgstr "Таксономии темы"
+
+#: inc/helpers.php:17
+msgid "ACF PRO Disabled"
+msgstr "ACF PRO Отключен"
+
+#: inc/helpers.php:18
+msgid ""
+"For the theme to work, you need to install and enable the \"ACF PRO\" plugin."
+msgstr "Для работы темы необходимо установить и включить плагин \"ACF PRO\"."
+
+#: inc/helpers.php:43
+msgid "Classic Editor Disabled"
+msgstr "Classic Editor Отключен"
+
+#: inc/helpers.php:44
+msgid ""
+"For the theme to work, you need to install and enable the \"Classic Editor\" "
+"plugin."
+msgstr ""
+"Для работы темы необходимо установить и включить плагин \"Classic Editor\"."
+
+#: inc/helpers.php:228
+msgid "Back to "
+msgstr "Вернуться в "
+
+#: inc/hooks.php:34
+msgid "View More"
+msgstr "Показать больше"
+
+#: inc/hooks.php:35
+msgid "View Less"
+msgstr "Показать меньше"
+
+#: inc/hooks.php:85 inc/hooks.php:86
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/hooks.php:140
+msgid "Blog Sidebar"
+msgstr "Боковая панель в блоге"
+
+#: inc/hooks.php:141
+msgid "This is a sidebar for blog widgets"
+msgstr "Боковая панель для виджетов блога"
+
+#. Name of the template
+msgid "Flexible Content"
+msgstr "Гибкое содержание"
+
+#: templates/archive/item.php:24
+msgid "Posted - "
+msgstr "Опубликовано -"
+
+#: templates/archive/item.php:30 templates/flexible-content/blocks-team.php:37
+msgid "Read More"
+msgstr "Читать дальше"
+
+#. Name of the template
+msgid "Parent Theme"
+msgstr "Родительская тема"
+
+#. Author of the theme
+msgid "Anonymous"
+msgstr "Аноним"

@@ -1,0 +1,1 @@
+<div style="padding-top: <?php echo wld_get('padding')?>px;" class="custom-padding background-<?php echo wld_get('background_color')?>"></div>
